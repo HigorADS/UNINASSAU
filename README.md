@@ -4,16 +4,19 @@
 
 Este repositório reúne uma atividade acadêmica do **2º período do curso de Análise e Desenvolvimento de Sistemas (ADS)**. O trabalho apresenta os principais comandos utilizados no **Git** e no **GitHub**, explicando a finalidade de cada comando e sua aplicação no controle de versões de projetos de software.
 
-A atividade foi desenvolvida individualmente como parte do processo de aprendizagem sobre versionamento, organização de código e colaboração em projetos.
+A atividade foi desenvolvida para reforçar os conhecimentos iniciais sobre versionamento, organização de código e colaboração em projetos.
 
-## Objetivos da atividade
+## Sobre o curso de ADS
 
-- Compreender a função do Git no controle de versões.
-- Conhecer os comandos básicos utilizados no desenvolvimento de projetos.
-- Diferenciar o repositório local do repositório remoto hospedado no GitHub.
-- Aprender a criar commits, branches e históricos de alterações.
-- Entender como enviar e atualizar arquivos por meio dos comandos `push`, `pull` e `fetch`.
-- Praticar a organização e a publicação de uma atividade acadêmica em um repositório.
+Análise e Desenvolvimento de Sistemas é uma área da tecnologia voltada para o estudo, o planejamento, o desenvolvimento e a manutenção de sistemas computacionais. Durante o curso, o estudante aprende a compreender necessidades, modelar soluções, programar, testar aplicações e utilizar ferramentas que apoiam o desenvolvimento de software.
+
+## O 2º período
+
+No 2º período, os estudantes ampliam os fundamentos aprendidos no início da graduação e começam a aplicar conceitos técnicos em atividades mais práticas. O contato com ferramentas como Git e GitHub contribui para a organização dos projetos e para a compreensão de um fluxo de desenvolvimento mais próximo do mercado de tecnologia.
+
+## Objetivo da atividade
+
+O objetivo desta atividade é apresentar os comandos essenciais do Git e do GitHub e explicar suas respectivas funções. A proposta também busca desenvolver a prática de criação de repositórios, registro de alterações, organização do histórico do projeto e publicação de arquivos em um repositório remoto.
 
 ## Conteúdo abordado
 
@@ -32,18 +35,6 @@ O PDF apresenta comandos relacionados a:
 
 - [Relação dos comandos do Git e GitHub em PDF](./main.pdf)
 
-## Identificação acadêmica
-
-| Informação | Dados |
-|---|---|
-| **Aluno** | Higor Xavier Galhardo |
-| **Matrícula** | 36019348 |
-| **Curso** | Análise e Desenvolvimento de Sistemas (ADS) |
-| **Período** | 2º período |
-| **Modalidade** | Atividade individual |
-| **Data** | 24/09/2026 |
-| **Horário limite** | 21:00 |
-
 ## Tecnologias e ferramentas
 
 - [Git](https://git-scm.com/)
@@ -58,4 +49,4 @@ O PDF apresenta comandos relacionados a:
 
 ---
 
-*Repositório acadêmico criado para fins de estudo e entrega da atividade de Git e GitHub.*
+*Repositório acadêmico criado para fins de estudo sobre Git, GitHub e controle de versões.*
